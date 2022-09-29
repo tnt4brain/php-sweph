@@ -122,23 +122,6 @@ PHP_FUNCTION(swe_rad_midp);
 PHP_FUNCTION(swe_deg_midp);
 PHP_FUNCTION(swe_split_deg);
 
-/******************************************************* 
- * other functions from swephlib.c;
- * they are not needed for Swiss Ephemeris,
- * but may be useful to former Placalc users.
- ********************************************************/
-PHP_FUNCTION(swe_csnorm);
-PHP_FUNCTION(swe_difcsn);
-PHP_FUNCTION(swe_difdegn);
-PHP_FUNCTION(swe_difcs2n);
-PHP_FUNCTION(swe_difdeg2n);
-PHP_FUNCTION(swe_difrad2n);
-PHP_FUNCTION(swe_csroundsec);
-PHP_FUNCTION(swe_d2l);
-PHP_FUNCTION(swe_day_of_week);
-PHP_FUNCTION(swe_cs2timestr);
-PHP_FUNCTION(swe_cs2lonlatstr);
-PHP_FUNCTION(swe_cs2degstr);
 
 
 PHP_FUNCTION(confirm_sweph_compiled);	/* For testing, remove later. */
