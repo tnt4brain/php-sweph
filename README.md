@@ -54,6 +54,6 @@ Now you have a working copy of Swiss Ephemeris library.
 You can add custom ephemerides search path with 'SE_EPHE_PATH' environment variable - I guess you have to add it to PHP environment.
 
 ## Sources
-[GitHub repo I've updated to support PHP7](https://github.com/acarlton/php-sweph)
+[GitHub repo - the code source I've updated to support PHP7 back in 2017](https://github.com/acarlton/php-sweph)
 
-[Original GitHub repo, now with PHP7 support](https://github.com/cyjoelchen/php-sweph)
+[Original GitHub repo which has evolved and improved since then, now with perfect PHP7 support](https://github.com/cyjoelchen/php-sweph)
